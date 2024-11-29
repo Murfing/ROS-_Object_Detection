@@ -1,0 +1,3 @@
+[console_scripts]
+detector_node = object_detection.detector_node:mainrandom_node = object_detection.random_node:mainpublisher_node = object_detection.publisher_node:main
+
