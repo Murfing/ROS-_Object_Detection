@@ -1,0 +1,33 @@
+[0.477s] Invoking command in '/home/archit/amogh_ws/src/object_detction': PYTHONPATH=/home/archit/amogh_ws/build/object_detction/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detction build --build-base /home/archit/amogh_ws/build/object_detction/build install --record /home/archit/amogh_ws/build/object_detction/install.log --single-version-externally-managed install_data
+[0.654s] running egg_info
+[0.655s] creating ../../build/object_detction/object_detction.egg-info
+[0.655s] writing ../../build/object_detction/object_detction.egg-info/PKG-INFO
+[0.655s] writing dependency_links to ../../build/object_detction/object_detction.egg-info/dependency_links.txt
+[0.655s] writing entry points to ../../build/object_detction/object_detction.egg-info/entry_points.txt
+[0.655s] writing requirements to ../../build/object_detction/object_detction.egg-info/requires.txt
+[0.655s] writing top-level names to ../../build/object_detction/object_detction.egg-info/top_level.txt
+[0.655s] writing manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+[0.656s] reading manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+[0.657s] writing manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+[0.657s] running build
+[0.657s] running build_py
+[0.657s] creating /home/archit/amogh_ws/build/object_detction/build
+[0.657s] creating /home/archit/amogh_ws/build/object_detction/build/lib
+[0.657s] creating /home/archit/amogh_ws/build/object_detction/build/lib/object_detction
+[0.657s] copying object_detction/__init__.py -> /home/archit/amogh_ws/build/object_detction/build/lib/object_detction
+[0.658s] running install
+[0.658s] running install_lib
+[0.658s] creating /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction
+[0.658s] copying /home/archit/amogh_ws/build/object_detction/build/lib/object_detction/__init__.py -> /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction
+[0.659s] byte-compiling /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction/__init__.py to __init__.cpython-310.pyc
+[0.659s] running install_data
+[0.659s] creating /home/archit/amogh_ws/install/object_detction/share/ament_index
+[0.659s] creating /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index
+[0.659s] creating /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index/packages
+[0.659s] copying resource/object_detction -> /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index/packages
+[0.659s] copying package.xml -> /home/archit/amogh_ws/install/object_detction/share/object_detction
+[0.659s] running install_egg_info
+[0.660s] Copying ../../build/object_detction/object_detction.egg-info to /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction-0.0.0-py3.10.egg-info
+[0.661s] running install_scripts
+[0.676s] writing list of installed files to '/home/archit/amogh_ws/build/object_detction/install.log'
+[0.694s] Invoked command in '/home/archit/amogh_ws/src/object_detction' returned '0': PYTHONPATH=/home/archit/amogh_ws/build/object_detction/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/object_detction build --build-base /home/archit/amogh_ws/build/object_detction/build install --record /home/archit/amogh_ws/build/object_detction/install.log --single-version-externally-managed install_data

@@ -1,0 +1,19 @@
+[0.506s] Invoking command in '/home/archit/amogh_ws/build/object_detection': PYTHONPATH=/home/archit/amogh_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/archit/amogh_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/archit/amogh_ws/build/object_detection/build --no-deps symlink_data
+[0.720s] running develop
+[0.720s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.721s]   warnings.warn(
+[0.852s] running egg_info
+[0.852s] writing object_detection.egg-info/PKG-INFO
+[0.852s] writing dependency_links to object_detection.egg-info/dependency_links.txt
+[0.853s] writing entry points to object_detection.egg-info/entry_points.txt
+[0.853s] writing requirements to object_detection.egg-info/requires.txt
+[0.853s] writing top-level names to object_detection.egg-info/top_level.txt
+[0.854s] reading manifest file 'object_detection.egg-info/SOURCES.txt'
+[0.860s] writing manifest file 'object_detection.egg-info/SOURCES.txt'
+[0.861s] running build_ext
+[0.861s] Creating /home/archit/amogh_ws/install/object_detection/lib/python3.10/site-packages/object-detection.egg-link (link to .)
+[0.862s] Installing detector_node = object_detection.detector_node:mainrandom_node = object_detection.random_node:mainpublisher_node script to /home/archit/amogh_ws/install/object_detection/lib/object_detection
+[0.862s] 
+[0.862s] Installed /home/archit/amogh_ws/build/object_detection
+[0.862s] running symlink_data
+[0.887s] Invoked command in '/home/archit/amogh_ws/build/object_detection' returned '0': PYTHONPATH=/home/archit/amogh_ws/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/archit/amogh_ws/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/archit/amogh_ws/build/object_detection/build --no-deps symlink_data

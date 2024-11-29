@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/object_detction/object_detction.egg-info
+writing ../../build/object_detction/object_detction.egg-info/PKG-INFO
+writing dependency_links to ../../build/object_detction/object_detction.egg-info/dependency_links.txt
+writing entry points to ../../build/object_detction/object_detction.egg-info/entry_points.txt
+writing requirements to ../../build/object_detction/object_detction.egg-info/requires.txt
+writing top-level names to ../../build/object_detction/object_detction.egg-info/top_level.txt
+writing manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+reading manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+writing manifest file '../../build/object_detction/object_detction.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/archit/amogh_ws/build/object_detction/build
+creating /home/archit/amogh_ws/build/object_detction/build/lib
+creating /home/archit/amogh_ws/build/object_detction/build/lib/object_detction
+copying object_detction/__init__.py -> /home/archit/amogh_ws/build/object_detction/build/lib/object_detction
+running install
+running install_lib
+creating /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction
+copying /home/archit/amogh_ws/build/object_detction/build/lib/object_detction/__init__.py -> /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction
+byte-compiling /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/archit/amogh_ws/install/object_detction/share/ament_index
+creating /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index
+creating /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index/packages
+copying resource/object_detction -> /home/archit/amogh_ws/install/object_detction/share/ament_index/resource_index/packages
+copying package.xml -> /home/archit/amogh_ws/install/object_detction/share/object_detction
+running install_egg_info
+Copying ../../build/object_detction/object_detction.egg-info to /home/archit/amogh_ws/install/object_detction/lib/python3.10/site-packages/object_detction-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/archit/amogh_ws/build/object_detction/install.log'
